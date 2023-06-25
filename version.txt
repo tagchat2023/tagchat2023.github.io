@@ -1,3 +1,0 @@
-git version: 17ffcf31678bfd99ed6cced7cbeb217badf9b5d7
-jenkins version: 7
-Branches: origin/master
